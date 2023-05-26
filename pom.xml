@@ -29,7 +29,7 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>final-test-kevin</id>
+            <id>nexus-akademi</id>
             <url>http://nexus.nostratech.com/repository/com.nostratech.academy/</url>
         </snapshotRepository>
     </distributionManagement>
